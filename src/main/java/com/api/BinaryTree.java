@@ -4,13 +4,11 @@ package com.api;
  * Created by agarwdhu on 8/2/2017.
  */
 
-class BinaryTreeNode{
+public class BinaryTree{
     int data;
-    BinaryTreeNode left;
-    BinaryTreeNode right;
+    BinaryTree left;
+    BinaryTree right;
 }
-public class BinaryTree {
 
-}
 
 
