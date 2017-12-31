@@ -14,7 +14,7 @@ package com.api.interviewbit.math;
  GCD(m, n) : 3
  */
 public class GreatestCommonDivisor {
-    public int gcd(int A, int B) {
+    public static int gcd(int A, int B) {
         if(A==0 && B==0) return 1;
         if(A==0) return B;
         if(B==0) return A;
