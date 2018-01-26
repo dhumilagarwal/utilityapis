@@ -1,0 +1,29 @@
+UC1 : As a vehicle driver, I should be able to buy a ticket at the teller machine
+UC2 : As a vehicle driver, I should be able to pay money to the teller machine via Cards or Cash
+UC3 : As a vehicle driver, I should be able to get a receipt of the ticket at the time of entry
+UC4 : As a vehicle driver, I should be able to get a receipt of the ticket at the time of exit
+UC5 : As a Teller machine, I should be able to receive money for every driver that enters the system
+UC6 : As an Operation Executive, I should be able to know the parking space location alloted to a
+        vehicle.
+UC7 : As a vehicle driver, I should be able to know if I can have a parking space available. If it
+        is not available, I should be informed at the teller machine, and ticket should not be issued.
+UC8 : As a Parking Lot owner, I should be able to see the statistics of total vehicles and type of
+        vehicles parked at any time
+UC9 : As a Parking Lot owner, I should be able to get hourly updates of money transfered into my
+        account
+UC10 : As a vehicle driver, my vehicle type should be auto-identified by the system
+UC11 : As a vehicle driver, I should know the parking space location allocated to me
+UC12 : As an Operation Executive, I should be able to set the parking rates of any type of vehicle
+        at any time.
+UC13 : As a vehicle driver, I should be able to see the parking charges applicable for my vehicle
+        type on that day.
+UC14 : As an Operation Executive, I should get an alert to switch off lights in a parking floor,
+        if there are no vehicles parked in that floor.
+UC15 : As an Operation Clerk, I should be able to launch the Application every day, at the start of
+        the day.
+UC16 :  As an Operation Executive, I should get an alert to report incidents to police, if vehicles
+        are parked beyond the maximum time limit, or beyond parking lot timings
+
+
+
+
